@@ -60,3 +60,6 @@ nfqueue_test
 # Emacs temporary files
 *~
 \#*\#
+.idea
+.idea/
+idea/
